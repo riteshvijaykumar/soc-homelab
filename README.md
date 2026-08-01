@@ -22,6 +22,8 @@ The primary goal of this project is to gain practical, hands-on experience in SO
 
 Rather than simply following tutorials, I built this lab to understand how security analysts detect threats, analyze logs, and respond to security events in an enterprise environment.
 
+![Download Sysmon](/images/Dashboard/Dashboard.png)
+
 ---
 
 ## 🎯 Objectives
@@ -114,7 +116,7 @@ Topics include:
 - [x] Generate Security Alerts
 - [x] Enable File Integrity Monitoring
 - [x] Sysmon Integration
-- [ ] Custom Detection Rules
+- [x] Malware Detection
 - [ ] Active Response
 - [ ] Threat Hunting Scenarios
 - [ ] MITRE ATT&CK Mapping
