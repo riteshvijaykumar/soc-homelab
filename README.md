@@ -117,7 +117,7 @@ Topics include:
 - [x] Enable File Integrity Monitoring
 - [x] Sysmon Integration
 - [x] Malware Detection
-- [ ] Active Response
+- [x] Active Response
 - [ ] Threat Hunting Scenarios
 - [ ] MITRE ATT&CK Mapping
 - [ ] Sigma Rule Testing
